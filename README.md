@@ -12,6 +12,6 @@
 </p> 
 
 - 🏢 I'm a Data scientist and Machine Learning engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with in problem solving.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻  I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with in problem-solving.
+- ⚡ Fun Fact: I'm a coffee enthusiast, and my perfect day would start and end with a cup of coffee.
